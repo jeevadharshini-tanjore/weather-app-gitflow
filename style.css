@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #eef2f3;
+  }
+  
+  .container {
+    margin-top: 50px;
+  }
+  
+  input {
+    padding: 10px;
+    width: 200px;
+  }
+  

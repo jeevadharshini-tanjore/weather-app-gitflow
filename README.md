@@ -50,8 +50,11 @@ weather-app-gitflow/
 
 3.Open index.html in your browser and try it!
 
-![Screenshot (203)](https://github.com/user-attachments/assets/2d787d24-c3f0-44cc-825f-678e6987b6fd)
-![Screenshot (204)](https://github.com/user-attachments/assets/5014b9a2-17ad-4fd7-8558-c129f22b90b8)
+
+![Screenshot (210)](https://github.com/user-attachments/assets/5977b667-f244-4c39-ae04-04aa64ccebb4)
+![Screenshot (211)](https://github.com/user-attachments/assets/7b881f45-49c9-4a06-ae6c-7e9b6a38ef1b)
+
+
 
 
 Learning Outcome
